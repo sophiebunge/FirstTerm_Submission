@@ -46,7 +46,7 @@ The goal would be to design a well-structured experiment that can be tested by u
 
 ---
 
-Download the project diary here: [Download](https://owncloud.gwdg.de/index.php/s/YgKN2rIEq0pw5Su)
+Download the project diary here: [Download](https://owncloud.gwdg.de/index.php/s/YgKN2rIEq0pw5Su) <br> _at the end I did managed to deploy the website otherwise written in the diary._
 
 ---
 
