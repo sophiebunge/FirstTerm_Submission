@@ -6,7 +6,8 @@ _Submission 15.03.25_
 
 ---
 
-A guide how to install and run locally can be found in the NavMenu **"How to Run it"**
+Access the Project: [visit website](https://avatarreact-2.onrender.com/)
+A guide how to install and run locally can be found in the NavMenu **"How to Run it"** and the code can be found in the same submission github folder.
 
 ---
 
